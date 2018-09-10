@@ -13,5 +13,5 @@ The scripts provided here automate the invitation and deactivation process.
 
 Specific tokens are needed in order for these scripts to work : 
 
-- SLACK_TOKEN (Available [here](https://api.slack.com/custom-integrations/legacy-tokens)
-- SLACK_WEB_TOKEN (Available in the HTML source code here : https://[team].slack.com/admin)
+- SLACK_TOKEN (available [here](https://api.slack.com/custom-integrations/legacy-tokens))
+- SLACK_WEB_TOKEN (available in the HTML source code here : https://[team].slack.com/admin)
